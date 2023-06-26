@@ -1,3 +1,6 @@
+'''
+This file contains the logic for storing and querying data from Pinecone.
+'''
 from typing import List
 from langchain.vectorstores import Pinecone
 from langchain.chains.summarize import load_summarize_chain
