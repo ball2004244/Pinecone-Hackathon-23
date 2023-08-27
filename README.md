@@ -2,11 +2,9 @@
 PDF summarizer using NLP and ML
 
 ## Technology
-Programming Language: Python
-
-Vector Database: Pinecone
-
-AI API: Google Palm
+- Programming Language: Python
+- Vector Database: Pinecone
+- Generative AI API: Google Palm 2
 
 ## Description 
 Input:
